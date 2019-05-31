@@ -1,1 +1,21 @@
 https://wiki.tanhost.com/tanhost/wiki/vz7/create_template_ct
+
+
+a pw nl100admpswd
+u eugene
+pw Eugene1983
+
+ssh root 
+rootpasswrd
+
+102
+mysql root mysqlpswd
+juser juserpassword
+
+replication
+u slave_user
+pw slavepswd
+
+jm
+adm end
+pw	endadmpasswrd
