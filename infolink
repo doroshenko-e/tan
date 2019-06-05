@@ -1,21 +1,28 @@
 https://wiki.tanhost.com/tanhost/wiki/vz7/create_template_ct
 
 
-a pw nl100admpswd
-u eugene
-pw Eugene1983
+nl51
+root
+Lahgh7ua
 
-ssh root 
-rootpasswrd
+serhij shevchenko
+u: serhiy
+pw: wahj6aeV
 
-102
-mysql root mysqlpswd
-juser juserpassword
 
-replication
-u slave_user
-pw slavepswd
+miroslav glushak
 
-jm
-adm end
-pw	endadmpasswrd
+
+prlctl set vmcent --vnc-mode manual --vnc-port 5912 --vnc-passwd cEntp5w0
+prlctl set vmcent --userpasswd root:ucea7ooS
+
+prlctl set vmdeb --vnc-mode manual --vnc-port 5911 --vnc-passwd Oiwaiqud
+root:uNder5oS
+
+prlctl set vmwin --vnc-mode manual --vnc-port 5922 --vnc-passwd xcR7g87x
+
+
+
+.99
+eugene
+VaiZ7iew
