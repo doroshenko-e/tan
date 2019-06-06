@@ -1,6 +1,3 @@
-https://wiki.tanhost.com/tanhost/wiki/vz7/create_template_ct
-
-
 nl51
 root
 Lahgh7ua
@@ -13,16 +10,22 @@ pw: wahj6aeV
 miroslav glushak
 
 
-prlctl set vmcent --vnc-mode manual --vnc-port 5912 --vnc-passwd cEntp5w0
-prlctl set vmcent --userpasswd root:ucea7ooS
+prlctl set cent --vnc-mode manual --vnc-port 5912 --vnc-passwd cEntp5w0
+prlctl set cent --userpasswd root:ucea7ooS
 
-prlctl set vmdeb --vnc-mode manual --vnc-port 5911 --vnc-passwd Oiwaiqud
-root:uNder5oS
+prlctl set deb --vnc-mode manual --vnc-port 5911 --vnc-passwd Oiwaiqud
+prlctl set deb --userpasswd root:uNder5oS
 
-prlctl set vmwin --vnc-mode manual --vnc-port 5922 --vnc-passwd xcR7g87x
+prlctl set win --vnc-mode manual --vnc-port 5922 --vnc-passwd xcR7g87x
+administrator:123xcR7g87x456
 
 
 
 .99
 eugene
 VaiZ7iew
+rdp99 serhiy Shevchenko123
+
+
+eugened
+Doroshenko1983
